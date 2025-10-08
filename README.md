@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurawambekarr 
 - 👀 I’m interested in Coding and Gymnastics
-- 🌱 Full Stack Development 
+- 🌱 Full Stack Developer
 - 💞️ I’m looking to collaborate on Web application
 - 📫 How to reach me my Convinent mob Number.. 8856826164
 - 😄 Pronouns: ...
